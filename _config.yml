@@ -3,17 +3,17 @@ title: Wu Yuan Gui's Blog
 header-img: img/home-bg.jpg
 email: wuyuangui@gmail.com
 copyright_name: Wu Yuan Gui 
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "记录我的一点一滴"
 baseurl: "/wuyuangui"
-url: "http://yourdomain.com"
-twitter_username: yuanguiwu 
+url: "https://github.com/lihuibng/wuyuangui"
+twitter_username: wuyuangui 
 github_username: lihuibng 
-facebook_username: Wu Yuangui  
+facebook_username: wuyuangui
 email_username:  wuyuangui@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-# google_tracking_id:
+google_tracking_id: UA-101910540-1
 
 # Build settings
 markdown: kramdown
